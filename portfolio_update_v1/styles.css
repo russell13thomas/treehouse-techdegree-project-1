@@ -71,10 +71,10 @@ header .profile-image {
   height: 150px;
   border-radius: 50%;
   border: 3px solid white;
-  transition: all .5s;
+  transition: all 1s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(5deg);
+  transform: scale(1.2) rotate(360deg);
 }
 .tag {
   background-color: #efefef;
@@ -119,6 +119,11 @@ ul.skills {
 .skills li:nth-child(odd) {
   background: #0399ff;
 }
+
+.skills li:hover {
+  transform: scale(1.2);
+}
+
 
 footer {
   width: 100%;
@@ -203,5 +208,26 @@ a.social:hover {
     margin: 40px auto;
   }
 
+}
+
+
+/* 
+my changes to the stylesheet 
+1. Rotating images on each page
+2. Increase on size of skills list elements on hover
+3. new class for Projects with:
+   a) Border colour changes over Card class
+   b) Border radiius changes over Card class
+   c) font change over Card class
+*/
+
+
+.myprojectscard {
+  border: 3px solid rgb(15, 6, 6);
+  border-radius: 30px;
+  font-style:italic;
+}
+.myprojectscard:hover {
+  border-color: #ff99ff;
 }
 
