@@ -1,13 +1,13 @@
 ########################################################
-#treehouse-techdegree-project-1
+# treehouse-techdegree-project-1
 # Russell Thomas
 # My Personal Profile Page
 # Attempted grade: Exceeds Expectation
 #########################################################
 # Stylesheet changes
-#1. Rotating images on each page
-#2. Increase on size of skills list elements on hover
-#3. new class for Projects with:
+# 1. Rotating images on each page
+# 2. Increase on size of skills list elements on hover
+# 3. new class for Projects with:
 #   a) Border colour changes over Card class
 #   b) Border radius changes over Card class
 #   c) Font change over Card class
