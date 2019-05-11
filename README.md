@@ -1,4 +1,5 @@
-# treehouse-techdegree-project-1
+########################################################
+#treehouse-techdegree-project-1
 # Russell Thomas
 # My Personal Profile Page
 # Attempted grade: Exceeds Expectation
