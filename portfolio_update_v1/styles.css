@@ -69,8 +69,8 @@ header .profile-image {
   margin-top: 50px;
   width: 150px;
   height: 150px;
-  border-radius: 50%;
-  border: 3px solid white;
+  border-radius: 60%;
+  border: 5px transparent rgb(12, 12, 12);
   transition: all 1s;
 }
 header .profile-image:hover {
@@ -212,13 +212,10 @@ a.social:hover {
 
 
 /* 
-my changes to the stylesheet 
-1. Rotating images on each page
-2. Increase on size of skills list elements on hover
-3. new class for Projects with:
-   a) Border colour changes over Card class
-   b) Border radiius changes over Card class
-   c) font change over Card class
+My new class for Projects with:
+   a) Border colour changes on hover 
+   b) Border radiius changes 
+   c) font change 
 */
 
 
