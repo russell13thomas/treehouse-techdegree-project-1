@@ -27,4 +27,4 @@
 #   b) New pages for Certifications, Projects and Skills
 #   c) New pages referenced without using "/"
 #   d) use of <strong> in index.html
-#   e> use of achor tag to link to Projects div element in Projects.html
+#   e) use of achor tag to link to Projects div element in Projects.html
