@@ -28,3 +28,7 @@
 #   c) New pages referenced without using "/"
 #   d) use of <strong> in index.html
 #   e) use of achor tag to link to Projects div element in Projects.html
+##############################################################
+# Resubmission
+# a) href now uses files references and not #
+# b) Style sheet class profile-image now used a Solid border
